@@ -1,0 +1,11 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndersonAslap/curso-typescript.git",
+  "author": "AndersonAslap <anderson.adolfo1998@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
