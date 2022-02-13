@@ -6,6 +6,7 @@
   "author": "AndersonAslap <anderson.adolfo1998@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.5.5"
   }
 }
