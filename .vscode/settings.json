@@ -1,5 +1,5 @@
 {
     "code-runner.executorMap": {
-        "typescript": "yarn ts-node-dev --files"
+        "typescript": "cls && yarn ts-node-dev --files"
     }
 }
